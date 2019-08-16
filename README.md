@@ -993,7 +993,7 @@ ICMP/TCP/UDP
 </td>
 </tr>
 </table>
-<p>I will update this table in the future when there&#8217;s a release of new important OS whenever I get the time. You can get the short version of default <strong>TTL</strong> values by this table :</p>
+<p>You can get the short version of default <strong>TTL</strong> values by this table :</p>
 <table class="table">
 <tr>
 <td>
@@ -1028,5 +1028,3 @@ Solaris/AIX
 </td>
 </tr>
 </table>
-<p>You can find it yourself by pinging localhost as mentioned by <span class="author publisher-anchor-color"><a href="http://disq.us/p/1er4k1l" data-action="profile" data-username="gbhackers" data-role="username">Gurubaran</a></span> :</p>
-<pre class="prettyprint"><code>ping -4 localhost</code></pre>
